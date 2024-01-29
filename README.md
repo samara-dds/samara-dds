@@ -27,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-F2E142?style=for-the-badge&logo=JavaScript&logoColor=000)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-03C75A?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-3152A0?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0052CC?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 
 
 
