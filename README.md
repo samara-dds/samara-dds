@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samara-dds&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Samara agnnes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samara-dds&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samara-dds&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=6959CD&text_color=c9d1d9&bg_color=0d1117" alt="Samara agnnes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samara-dds&layout=compact&hide_border=true&title_color=836FFF&text_color=836FFF&bg_color=0d1117" />
 </div>
 
 
